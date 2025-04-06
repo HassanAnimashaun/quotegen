@@ -12,7 +12,7 @@ Features
 
 ✅ Automatically displays a quote on page load.
 
-✅ Live Demo: Access the app hosted on Vercel here.
+✅ Live Demo: Access the app hosted on Vercel [here] (https://quotegen-psi.vercel.app/).
 Installation & Setup
 
 Clone this repository:
