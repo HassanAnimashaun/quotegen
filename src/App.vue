@@ -39,7 +39,7 @@ export default {
   <div class="flex items-center justify-center min-h-screen bg-yellow-100">
     <div class="grid grid-cols-1 gap-5">
       <QuoteCard :quote="message.quote" :author="message.author" />
-      <ButtonGen/>
+      <ButtonGen @click="generateBtn" />
     </div>
   </div>
 </template>
