@@ -55,8 +55,6 @@ const response = await fetch('https://api.api-ninjas.com/v1/quotes?category=succ
 ```
 ## Future Enhancements
 
-🔹 Save Display History: Allow users to save and review previous quotes.
-
 🔹 Theming Options: Customizable light and dark mode for user preference.
 
 🔹 Quote Categories: Allow users to filter quotes by category.
